@@ -1,4 +1,4 @@
-# Official Jenkins Docker image
+# Clone from Official Jenkins Docker image
 
 The Jenkins Continuous Integration and Delivery server.
 
